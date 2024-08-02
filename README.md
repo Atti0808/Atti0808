@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atti
 - 👀 I’m interested in learning programing 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on small python projects
 - 📫 How to reach me the easiest way  is by  my e-mail adress
 - ⚡ Fun fact: there are more stars in the sky then grains of sand in the world
 
